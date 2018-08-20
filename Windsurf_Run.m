@@ -5,7 +5,7 @@ cd(project.Directory)
        
 Windsurf_Initialize_Coupler %Initialize all relevant variables for first simulation
 
-progressbar %initialize progress bar for simulations
+% progressbar %initialize progress bar for simulations
 
 for run_number = startingSim:project.numSims %loop through all times/environmental conditions
          
